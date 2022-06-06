@@ -1,2 +1,2 @@
-# Resume-Project-
-Resume using HTML and CSS
+# CodingNinjas-Resume-Project
+ Resume Project in HTML/CSS
